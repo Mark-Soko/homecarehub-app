@@ -1,0 +1,6 @@
+build/
+.dart_tool/
+provider/build/
+provider/.dart_tool/
+Client/build/
+Client/.dart_tool/
